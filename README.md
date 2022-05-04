@@ -10,7 +10,7 @@ VSCode > Bash terminal
 npx playwright test
 ```
 
-How to run the tests with open browser:
+## How to run the tests with open browser:
 
 ```
 npx playwright test --headed
